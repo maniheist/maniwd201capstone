@@ -1,1 +1,2 @@
-# wd201LastCap
+# Learning Management System
+Welcome to our Learning Management System (LMS).This platform is created to simplify and enhance the learning experience. Here, you can effortlessly log in, sign up, and log out to tailor your learning journey. Teachers have the capability to craft courses and monitor student and course performance through detailed reports. For students, joining courses and monitoring progress is made easy. Our search function simplifies finding specific courses. Additionally, we prioritize the security of your information by offering features such as forgot password and change password options, ensuring a secure and customizable experience for everyone.
