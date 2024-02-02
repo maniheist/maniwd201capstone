@@ -28,7 +28,8 @@ Course Create Page
 
 Page Creating
 
-![Screenshot 2024-02-01 173216](https://github.com/maniheist/wd201LastCap/assets/144818018/ec4d4126-d85c-452a-bd38-51db7cf51d95)
+![Screenshot 2024-02-02 142320](https://github.com/maniheist/wd201LastCap/assets/144818018/f4195919-b59c-4f1b-ad9d-d8106b601367)
+
 
 Student Progress Page
 
