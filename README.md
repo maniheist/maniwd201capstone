@@ -1,5 +1,5 @@
 # Learning Management System
-Welcome to our Learning Management System (LMS).This platform is created to simplify and enhance the learning experience. Here, you can effortlessly log in, sign up, and log out to tailor your learning journey. Teachers have the capability to craft courses and monitor student and course performance through detailed reports. For students, joining courses and monitoring progress is made easy. Our search function simplifies finding specific courses. Additionally, we prioritize the security of your information by offering features such as forgot password and change password options, ensuring a secure and customizable experience for everyone.
+Welcome to our Learning Management System (LMS).
 # Insights Of Application
 
 Student Home page
@@ -29,6 +29,8 @@ Course Create Page
 Page Creating
 
 ![Screenshot 2024-02-02 142320](https://github.com/maniheist/wd201LastCap/assets/144818018/f4195919-b59c-4f1b-ad9d-d8106b601367)
+
+
 
 
 Student Progress Page
