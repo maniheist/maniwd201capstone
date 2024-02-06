@@ -44,5 +44,5 @@ Student Progress Page
 
 https://drive.google.com/file/d/1L5aB649J1LItJmjZd539fXKgQmlC7F-J/view?usp=sharing
 
-# Live Apllication Link
+# Live Application Link
 https://manilast201-999.onrender.com
