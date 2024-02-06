@@ -1,6 +1,6 @@
 # Learning Management System
 Welcome to our Learning Management System (LMS).
-# Insights Of Application
+# Screenshots
 
 Student Home page
 
