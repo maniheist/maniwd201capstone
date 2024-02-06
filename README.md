@@ -1,5 +1,5 @@
 # Learning Management System
-Welcome to our Learning Management System (LMS).
+Welcome to our Learning Management System (LMS).It Helps Students To Learn Different Courses Created By Different Authors.In This Application Author Can Create A Course And Can Keep Track Of Progress Of Students Who Are Enrolled To His Course.Authors Can Observe His Course Popularity.Students Can Observe Their Progress. 
 # Screenshots
 
 Student Home page
